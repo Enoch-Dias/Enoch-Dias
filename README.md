@@ -1,4 +1,5 @@
-## Bem-vindo(a) ao perfil do Enoch Dias 😁
+## Bem-vindo(a) ao meu perfil! 
+~Enoch Dias 😁
 
  <div>
    <a href="https://github.com/Enoch-Dias">
